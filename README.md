@@ -43,7 +43,8 @@ Copy code
 if (!requireNamespace("BiocManager"))
     install.packages("BiocManager")
 BiocManager::install(c("limma", "edgeR", "Glimma", "org.Mm.eg.db", "gplots", "RColorBrewer", "NMF", "BiasedUrn"))
-Overview
+
+____________Overview____________
 
 Reading in Table of Counts
 Adding Annotation
